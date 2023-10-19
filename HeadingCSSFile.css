@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+.headerSection {
+    background-color: #112626; 
+    color: white; 
+    padding: 50px; 
+    margin-top: 1px;
+    font-family: 'Gabarito', sans-serif;
+    font-weight: bold;
+    text-align: center; 
+}
+
+body{
+    margin: 0;
+    background: #287373;
+    color: white;
+}
+
+p {
+    text-align: justify;
+    margin: 20em;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Young Serif', serif;    
+    font-size: 20px;
+
+}
+ 
+h3 {
+    text-align: center;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 25px;
+}
+
+q {
+    text-align: justify;
+    margin: 28em;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.bulletedList {
+    font-family: 'Gabarito', sans-serif;
+    text-align: justify;
+    margin: 25em;
+    margin-top: 0;
+    margin-bottom: 0; 
+    font-size: 17px;
+    
+}
+
+a {
+    color: white;
+}
+
+.setImages {
+    text-align: center; /* Center images horizontally within the container */
+}
+
+footer{
+    background-color: black;
+    padding-top: 2em;
+}
+
